@@ -3,7 +3,7 @@
 ### *I’m currently learning TypeScript/React.*
 <br />
 
-<div align="center">
+<div align="center" width:"100%">
   <a href="https://github.com/lesYeauxSansVisage" style:"display: flex; width: 100%;">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lesYeauxSansVisage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesYeauxSansVisage&layout=compact&langs_count=3&theme=dark"/>
