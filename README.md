@@ -4,9 +4,9 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/lesYeauxSansVisage" style:"display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesYeauxSansVisage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesYeauxSansVisage&layout=compact&langs_count=3&theme=dark"/>
+  <a href="https://github.com/lesYeauxSansVisage" style:"display: flex; max-width: 400px;">
+    <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api?username=lesYeauxSansVisage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesYeauxSansVisage&layout=compact&langs_count=3&theme=dark"/>
   </a>
 </div>
 
