@@ -1,6 +1,6 @@
 # I'm an aspiring Front-End developer.
 
-### *I’m currently learning TypeScript/React.*
+### *I’m currently learning React/Angular.*
 <br />
 
 <div align="center" style="width:100%;">
